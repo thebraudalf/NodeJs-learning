@@ -1,1 +1,0 @@
-Hey this is test of native module 'file system' of node.
