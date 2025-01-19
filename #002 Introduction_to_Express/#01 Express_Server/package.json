@@ -1,0 +1,15 @@
+{
+  "name": "first_server",
+  "version": "1.0.0",
+  "description": "This folder is used to practice of creating our first server.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "theBraudalf",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}

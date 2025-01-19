@@ -1,0 +1,20 @@
+{
+  "name": "ejs-tags",
+  "version": "1.0.0",
+  "description": "In this we have all types of EJS Tags.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "EJS",
+    "Tags"
+  ],
+  "author": "thebraudalf",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.1"
+  }
+}
